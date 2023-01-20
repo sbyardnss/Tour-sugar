@@ -29,42 +29,50 @@ const database = {
         id: 1,
         name: "Skelly and the Heavies",
         genre: "post rock",
-        yearFormed: 2010
+        yearFormed: 2010,
+        members: 4
     }, {
         id: 2,
         name: "Teenie rainbows",
         genre: "psych",
-        yearFormed: 2017
+        yearFormed: 2017,
+        members: 2
     }, {
         id: 3,
         name: "Cowboy Shark Tank",
         genre: "bluegrass",
-        yearFormed: 2013
+        yearFormed: 2013,
+        members: 5
     }, {
         id: 4,
         name: "Fury Mambo",
         genre: "punk",
-        yearFormed: 2016
+        yearFormed: 2016,
+        members: 3
     }, {
         id: 5,
         name: "Blarney Fife",
         genre: "funk",
-        yearFormed: 2009
+        yearFormed: 2009,
+        members: 1
     }, {
         id: 6,
         name: "Airborne Tadpole",
         genre: "ambient",
-        yearFormed: 2013
+        yearFormed: 2013,
+        members: 2
     }, {
         id: 7,
         name: "Mr Magma",
         genre: "doom",
-        yearFormed: 2019
+        yearFormed: 2019,
+        members: 4
     }, {
         id: 8,
         name: "Hevvy",
         genre: "post rock",
-        yearFormed: 2011
+        yearFormed: 2011,
+        members: 5
     }],
     bookings: [{
         id: 1,

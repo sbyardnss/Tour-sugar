@@ -9,7 +9,7 @@ const bookings = getBookings();
 export const bandList = () => {
     let bandHTML = "<ul>\n"
     for (const band of bands) {
-        bandHTML += `   <li id="bandClick--${band.id}>${band.name}</li>`
+        bandHTML += `   <li id="bandClick--${band.id}">${band.name}</li>`
     }
     return bandHTML
 }

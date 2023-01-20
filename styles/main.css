@@ -22,7 +22,7 @@
 
 .detail--column {
     flex-basis: 400px;
-    height: 600px;
+    height: 250px;
     margin: 0 20px;
     padding: 0 1.5rem;
     border: 1px dotted rgb(61, 129, 196);
